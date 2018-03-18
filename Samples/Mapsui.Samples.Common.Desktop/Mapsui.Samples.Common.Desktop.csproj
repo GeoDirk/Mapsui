@@ -141,6 +141,7 @@
     </ProjectReference>
     <ProjectReference Include="..\Mapsui.Samples.Common\Mapsui.Samples.Common.csproj">
       <Project>{508AE811-A03A-4138-8CCC-ABDE03C67010}</Project>
+      <Project>{508ae811-a03a-4138-8ccc-abde03c67010}</Project>
       <Name>Mapsui.Samples.Common</Name>
     </ProjectReference>
   </ItemGroup>
